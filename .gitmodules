@@ -1,0 +1,6 @@
+[submodule "lib/ILLI"]
+	path = lib/ILLI
+	url = git://github.com/sharillibe/ILLI.git
+[submodule "lib/tri4m"]
+	path = lib/tri4m
+	url = git://github.com/tri4m/tri4m.git
